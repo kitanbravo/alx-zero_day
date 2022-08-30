@@ -1,1 +1,1 @@
-created a directory in my repo
+created a new directory in my repository
